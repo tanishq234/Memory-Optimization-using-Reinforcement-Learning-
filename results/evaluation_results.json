@@ -1,0 +1,37 @@
+{
+  "fifo": [
+    251,
+    325,
+    478,
+    201,
+    529
+  ],
+  "lru": [
+    251,
+    325,
+    477,
+    201,
+    528
+  ],
+  "optimal": [
+    213,
+    266,
+    411,
+    178,
+    446
+  ],
+  "dqn": [
+    247,
+    321,
+    488,
+    198,
+    526
+  ],
+  "labels": [
+    "generated\\dataset_1",
+    "generated\\dataset_2",
+    "generated\\dataset_3",
+    "generated\\dataset_4",
+    "generated\\dataset_5"
+  ]
+}
